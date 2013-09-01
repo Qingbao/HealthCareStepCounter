@@ -1,4 +1,4 @@
 HealthCareStepCounter
 =====================
 
-A step counter on Android plalform
+A step counter on Android platform

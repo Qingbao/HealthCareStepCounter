@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome!</string>
+    <string name="app_name">HealthCareStepCounter</string>
+    <string name="speed">steps per minute</string>
+    <string name="step">Current step</string>
+    <string name="start">Start</string>
+    <string name="pressstart">Press button to start!</string>
+    <string name="stop">Stop</string>
+    <string name="service_running">Service is running</string>
+    <string name="calories">Calories</string>
+    <string name="time">Time</string>
+    <string name="DISPLAY">----------</string>
+    <string name="setting">Setting</string>
+    <string name="history">History</string>
+    <string name="finishedsteps">Finished steps: </string>
+    <string name="consumedcalories">Consumed Calories: </string>
+</resources>
