@@ -1,6 +1,8 @@
 HealthCareStepCounter
 =====================
 
+Coming soon: rewritten with React Native
+
 A step counter on Android platform. June, 2012
 
 ###DESCRIPTION:
